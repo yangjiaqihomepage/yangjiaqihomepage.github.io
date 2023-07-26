@@ -1,9 +1,9 @@
-/*a:link {text-decoration:none}
+a:link {text-decoration:none}
 a:visited {text-decoration:none}
 a:active {text-decoration:none}
-a:hover {text-decoration:none; color:#990000}*/
-/*a {text-decoration : none; color : #0048ba;}
-a:hover {text-decoration:underline; color: #8C1515; }*/
+a:hover {text-decoration:none; color:#990000}
+a {text-decoration : none; color : #0048ba;}
+a:hover {text-decoration:underline; color: #8C1515; }
 a {text-decoration : none}
 a:hover {text-decoration:underline; color: #990000; }
 body {background-color:#ffffff;}
