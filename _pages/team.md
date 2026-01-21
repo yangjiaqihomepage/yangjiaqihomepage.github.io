@@ -5,19 +5,17 @@ permalink: /team/
 author_profile: true
 ---
 
-## Principal investigator
+PhD Students
+======
 
-- Name, title, affiliation, short bio.
+......
 
-## Members
+MPhil Students
+======
 
-- Name, role, research interests.
-- Name, role, research interests.
+......
 
-## Alumni
+Alumni
+======
 
-- Name, current position.
-
-## Join us
-
-If you are interested in joining the team, contact me at the email in the sidebar.
+......
