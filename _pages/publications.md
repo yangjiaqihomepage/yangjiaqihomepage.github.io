@@ -14,6 +14,9 @@ Preprints
 2026
 ======
 <!-- Add items here -->
+Suning Ge, Chunlin Ren, Ya’nan He, Linjie Li, **Jiaqi Yang**$^*$, Kun Sun, Yanning Zhang. Iterative mutual voting matching for efficient and accurate Structure-from-Motion. **Journal of Visual Communication and Image Representation**, 2026 ([PDF](https://www.sciencedirect.com/science/article/pii/S1047320325003116))
+
+
 
 2025
 ======
