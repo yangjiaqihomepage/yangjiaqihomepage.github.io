@@ -8,18 +8,21 @@ redirect_from:
 ---
 
 Tenured Associate Professor
-
 School of Computer Science and Technology, Northwestern Polytechnical University
-
 1 Dongxiang Road, Chang'an District, Xi'an Shaanxi,710129, P.R.China.
 
-<div style="color: #c00;" markdown="1">
+<div style="color: rgb(194, 2, 2);" markdown="1">
+I'm looking for self-motivated students working with me on 3D computer vision. For prospective students, please send me an email with your CV and transcript.
+</div>
+
+Research Interest
+======
+
 I lead 3D vision group in Area-Space-Ground-Oceans (ASGO) National Engineering Laboratory in Northwestern Polytechnical University (NWPU). Our research interests include:
 
 1) 3D reconstruction from point clouds;
 2) 3D reconstruction from images;
 3) Point cloud vision tasks.
-</div>
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
