@@ -28,7 +28,7 @@ author:
   pronouns         : # "he/his" # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Xi'an, China"
-  employer         : "Northwestern Polytechnical\nUniversity"
+  employer         : "Northwestern Polytechnical<br>University"
   uri              : # URL
   email            : "jqyang@nwpu.edu.cn" 
 
