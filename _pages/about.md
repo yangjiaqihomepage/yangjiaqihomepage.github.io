@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="line-height: 1.3; margin-bottom: 0.75em;">
+<div style="line-height: 1.4; margin-bottom: 0.75em;">
 Tenured Associate Professor<br>
 School of Computer Science and Technology, Northwestern Polytechnical University<br>
 1 Dongxiang Road, Chang'an District, Xi'an Shaanxi,710129, P.R.China.
@@ -19,11 +19,13 @@ I'm looking for self-motivated students working with me on 3D computer vision. F
 
 Research Interests
 ======
-<div style="line-height: 1.3; margin-bottom: 0.75em;">
+<div style="line-height: 1.4; margin-bottom: 0.75em;">
 I lead 3D vision group in Area-Space-Ground-Oceans (ASGO) National Engineering Laboratory in Northwestern Polytechnical University (NWPU). Our research interests include:<br>
-    1. 3D reconstruction from point clouds;<br>
-    2. 3D reconstruction from images;<br>
-    3. Point cloud vision tasks.
+<div style="margin-left: 1.2em;">
+1. 3D reconstruction from point clouds;<br>
+2. 3D reconstruction from images;<br>
+3. Point cloud vision tasks.
+</div>
 </div>
 
 Shot BIO
