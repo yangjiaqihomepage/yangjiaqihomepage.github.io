@@ -21,7 +21,6 @@ Research Interests
 ======
 
 I lead 3D vision group in Area-Space-Ground-Oceans (ASGO) National Engineering Laboratory in Northwestern Polytechnical University (NWPU). Our research interests include:
-
 1. 3D reconstruction from point clouds;
 2. 3D reconstruction from images;
 3. Point cloud vision tasks.
