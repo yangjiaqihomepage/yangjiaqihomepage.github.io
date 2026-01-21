@@ -28,7 +28,7 @@ author:
   pronouns         : # "he/his" # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Xi'an, China"
-  employer         : "Northwestern Polytechnical University"
+  employer         : "Northwestern Polytechnical\nUniversity"
   uri              : # URL
   email            : "jqyang@nwpu.edu.cn" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
