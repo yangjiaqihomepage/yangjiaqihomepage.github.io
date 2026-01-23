@@ -70,13 +70,13 @@ Yuxin Cheng, Zhiqiang Huang, Siwen Quan, Xinyue Cao, Shikun Zhang, **Jiaqi Yang*
 
 **Jiaqi Yang**, Xiyu Zhang, Shichao Fan, Chunlin Ren, Yanning Zhang. Mutual Voting for Ranking 3D Correspondences. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2023. ([PDF](https://ieeexplore.ieee.org/abstract/document/10105460/))
 
-Zhen Li, Lingli Wang, Mofang Cheng, Cihui Pan, **Jiaqi Yang**\\({}^{*}\\). Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023, ([PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Multi-View_Inverse_Rendering_for_Large-Scale_Real-World_Indoor_Scenes_CVPR_2023_paper.html))
+Zhen Li, Lingli Wang, Mofang Cheng, Cihui Pan, **Jiaqi Yang**\\({}^{*}\\). Multi-View Inverse Rendering for Large-Scale Real-World Indoor Scenes. Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023, ([PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Multi-View_Inverse_Rendering_for_Large-Scale_Real-World_Indoor_Scenes_CVPR_2023_paper.html))
 
-Xiyu Zhang, **Jiaqi Yang**\\({}^{*}\\), Shikun Zhang, Yanning Zhang. Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023. ([PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.html))
+Xiyu Zhang, **Jiaqi Yang**\\({}^{*}\\), Shikun Zhang, Yanning Zhang. 3D Registration With Maximal Cliques. Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2023. ([PDF](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.html))
 
-Chunlin Ren, Qingshan Xu, Shikun Zhang, **Jiaqi Yang**\\({}^{*}\\). Proceedings of **the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2023. ([PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Ren_Hierarchical_Prior_Mining_for_Non-local_Multi-View_Stereo_ICCV_2023_paper.html))
+Chunlin Ren, Qingshan Xu, Shikun Zhang, **Jiaqi Yang**\\({}^{*}\\). Hierarchical Prior Mining for Non-local Multi-View Stereo. Proceedings of **the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2023. ([PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Ren_Hierarchical_Prior_Mining_for_Non-local_Multi-View_Stereo_ICCV_2023_paper.html))
 
-Qiao Wu, **Jiaqi Yang**\\({}^{*}\\), Kun Sun, Chu'ai Zhang, Yanning Zhang, Mathieu Salzmann; Proceedings of **the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2023. ([PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_MixCycle_Mixup_Assisted_Semi-Supervised_3D_Single_Object_Tracking_with_Cycle_ICCV_2023_paper.html))
+Qiao Wu, **Jiaqi Yang**\\({}^{*}\\), Kun Sun, Chu'ai Zhang, Yanning Zhang, Mathieu Salzmann. MixCycle: Mixup Assisted Semi-Supervised 3D Single Object Tracking with Cycle Consistency. Proceedings of **the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2023. ([PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_MixCycle_Mixup_Assisted_Semi-Supervised_3D_Single_Object_Tracking_with_Cycle_ICCV_2023_paper.html))
 
 2022
 ======
@@ -91,4 +91,4 @@ Daryl L Bibissi, **Jiaqi Yang**\\({}^{*}\\), Siwen Quan, Yanning Zhang. Dual spi
 
 **Jiaqi Yang**, Jiahao Chen, Siwen Quan, Wei Wang, Yanning Zhang. Correspondence selection with loose–tight geometric voting for 3-D point cloud registration. **IEEE Transactions on Geoscience and Remote Sensing**, 2022. ([PDF])(https://ieeexplore.ieee.org/abstract/document/9676593/)
 
-Zhen Li, Lingli Wang, Xiang Huang, Cihui Pan, **Jiaqi Yang**\\({}^{*}\\). Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2022. ([PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.html))
+Zhen Li, Lingli Wang, Xiang Huang, Cihui Pan, **Jiaqi Yang**\\({}^{*}\\). PhyIR: Physics-Based Inverse Rendering for Panoramic Indoor Images. Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2022. ([PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.html))
