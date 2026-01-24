@@ -29,17 +29,6 @@ Chunlin Ren, Qingshan Xu, Shikun Zhang, **Jiaqi Yang**\\({}^{*}\\). Hierarchical
 
 Qiao Wu, **Jiaqi Yang**\\({}^{*}\\), Kun Sun, Chu'ai Zhang, Yanning Zhang, Mathieu Salzmann. MixCycle: Mixup Assisted Semi-Supervised 3D Single Object Tracking with Cycle Consistency. Proceedings of **the IEEE/CVF International Conference on Computer Vision (ICCV)**, 2023. ([PDF](https://openaccess.thecvf.com/content/ICCV2023/html/Wu_MixCycle_Mixup_Assisted_Semi-Supervised_3D_Single_Object_Tracking_with_Cycle_ICCV_2023_paper.html))
 
-Preprints
-======
-<!-- Add items here -->
-Yang Zou, Zhaoshuai Qi, Yating Liu, Zihao Xu, Weipeng Sun, Weiyi Liu, Xingyuan Li, **Jiaqi Yang**, Yanning Zhang. AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation. 	**arXiv:2503.06660**. ([PDF](https://arxiv.org/abs/2503.06660))
-
-**Jiaqi Yang**, Chu'ai Zhang, Zhengbao Wang, Xinyue Cao, Xuan Ouyang, Xiyu Zhang, Zhenxuan Zeng, Zhao Zeng, Borui Lu, Zhiyi Xia, Qian Zhang, Yulan Guo, Yanning Zhang. 3d registration in 30 years: A survey. **arXiv:2412.13735**. ([PDF](https://arxiv.org/abs/2412.13735))
-
-Siwen Quan, Junhao Yu, Ziming Nie, Muze Wang, Sijia Feng, Pei An, **Jiaqi Yang**\\({}^{*}\\). Deep learning for 3d point cloud enhancement: A survey. **arXiv:2411.00857**. ([PDF](https://arxiv.org/abs/2411.00857))
-
-Zhaoshuai Qi, Yifeng Hao, Rui Hu, Wenyou Chang, **Jiaqi Yang**, Yanning Zhang. Indoor 3d reconstruction with an unknown camera-projector pair. **arXiv:2407.01945**. ([PDF](https://arxiv.org/abs/2407.01945))
-
 2026
 ======
 <!-- Add items here -->
@@ -72,6 +61,8 @@ Xiyu Zhang, Yanning Zhang, **Jiaqi Yang**\\({}^{*}\\). MAC++: Going Further with
 
 Zhenxuan Zeng, Qiao Wu, Xiyu Zhang, Lin Yuanbo Wu, Pei An, **Jiaqi Yang**\\({}^{*}\\), Ji Wang, Peng Wang. Unlocking Generalization Power in LiDAR Point Cloud Registration. Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2025. ([PDF](https://openaccess.thecvf.com/content/CVPR2025/html/Zeng_Unlocking_Generalization_Power_in_LiDAR_Point_Cloud_Registration_CVPR_2025_paper.html))
 
+Yang Zou, Zhaoshuai Qi, Yating Liu, Zihao Xu, Weipeng Sun, Weiyi Liu, Xingyuan Li, **Jiaqi Yang**, Yanning Zhang. AxisPose: Model-Free Matching-Free Single-Shot 6D Object Pose Estimation via Axis Generation. **arXiv:2503.06660**, 2025. ([PDF](https://arxiv.org/abs/2503.06660))
+
 2024
 ======
 
@@ -82,6 +73,12 @@ Qiao Wu, Kun Sun, Pei An, Mathieu Salzmann, Yanning Zhang, **Jiaqi Yang**\\({}^{
 Pei An, Junfeng Ding, Siwen Quan, **Jiaqi Yang**, You Yang, Qiong Liu, Jie Ma. Survey of extrinsic calibration on lidar-camera system for intelligent vehicle: Challenges, approaches, and trends. **IEEE Transactions on Intelligent Transportation Systems**, 2024. ([PDF](https://ieeexplore.ieee.org/abstract/document/10591453/))
 
 Chu’ai Zhang, Yating Wang, Qiao Wu, Jiangbin Zheng, **Jiaqi Yang**\\({}^{*}\\), Siwen Quan, Yanning Zhang. Multi-scale point pair normal encoding for local feature description and 3D object recognition. **Journal of Electronic Imaging**, 2024. ([PDF](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-33/issue-4/043005/Multi-scale-point-pair-normal-encoding-for-local-feature-description/10.1117/1.JEI.33.4.043005.short))
+
+**Jiaqi Yang**, Chu'ai Zhang, Zhengbao Wang, Xinyue Cao, Xuan Ouyang, Xiyu Zhang, Zhenxuan Zeng, Zhao Zeng, Borui Lu, Zhiyi Xia, Qian Zhang, Yulan Guo, Yanning Zhang. 3d registration in 30 years: A survey. **arXiv:2412.13735**, 2024. ([PDF](https://arxiv.org/abs/2412.13735))
+
+Siwen Quan, Junhao Yu, Ziming Nie, Muze Wang, Sijia Feng, Pei An, **Jiaqi Yang**\\({}^{*}\\). Deep learning for 3d point cloud enhancement: A survey. **arXiv:2411.00857**, 2024. ([PDF](https://arxiv.org/abs/2411.00857))
+
+Zhaoshuai Qi, Yifeng Hao, Rui Hu, Wenyou Chang, **Jiaqi Yang**, Yanning Zhang. Indoor 3d reconstruction with an unknown camera-projector pair. **arXiv:2407.01945**, 2024. ([PDF](https://arxiv.org/abs/2407.01945))
 
 2023
 ======
@@ -113,7 +110,7 @@ Chen Zhao, **Jiaqi Yang**\\({}^{*}\\), Xin Xiong, Angfan Zhu, Zhiguo Cao, Xin Li
 
 Daryl L Bibissi, **Jiaqi Yang**\\({}^{*}\\), Siwen Quan, Yanning Zhang. Dual spin-image: A bi-directional spin-image variant using multi-scale radii for 3D local shape description. **Computers & Graphics**, 2022. ([PDF](https://www.sciencedirect.com/science/article/pii/S0097849322000310))
 
-**Jiaqi Yang**, Jiahao Chen, Siwen Quan, Wei Wang, Yanning Zhang. Correspondence selection with loose–tight geometric voting for 3-D point cloud registration. **IEEE Transactions on Geoscience and Remote Sensing**, 2022. ([PDF])(https://ieeexplore.ieee.org/abstract/document/9676593/)
+**Jiaqi Yang**, Jiahao Chen, Siwen Quan, Wei Wang, Yanning Zhang. Correspondence selection with loose–tight geometric voting for 3-D point cloud registration. **IEEE Transactions on Geoscience and Remote Sensing**, 2022. ([PDF](https://ieeexplore.ieee.org/abstract/document/9676593/))
 
 Zhen Li, Lingli Wang, Xiang Huang, Cihui Pan, **Jiaqi Yang**\\({}^{*}\\). PhyIR: Physics-Based Inverse Rendering for Panoramic Indoor Images. Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2022. ([PDF](https://openaccess.thecvf.com/content/CVPR2022/html/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.html))
 
@@ -173,7 +170,7 @@ Chen Zhao, Zhiguo Cao, Chi Li, Xin Li, **Jiaqi Yang**\\({}^{*}\\). NM-Net: Minin
 2018
 ======
 
-Chen Zhao, **Jiaqi Yang**, Yang Xiao, Zhiguo Cao. Scalable multi-consistency feature matching with non-cooperative games. Proceedings of the **2018 25th IEEE International Conference on Image Processing (ICIP)**, 2018. (https://ieeexplore.ieee.org/abstract/document/8451012/)
+Chen Zhao, **Jiaqi Yang**, Yang Xiao, Zhiguo Cao. Scalable multi-consistency feature matching with non-cooperative games. Proceedings of the **2018 25th IEEE International Conference on Image Processing (ICIP)**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8451012/))
 
 **Jiaqi Yang**, Yang Xiao, Zhiguo Cao. Toward the repeatability and robustness of the local reference frame for 3D shape matching: An evaluation. **IEEE Transactions on Image Processing**, 2018. ([PDF](https://ieeexplore.ieee.org/abstract/document/8345152/))
 
