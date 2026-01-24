@@ -7,18 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Education
-======
-......
-  
-Grant
-======
-......
-
-Award
-======
-......
-  
-Academic Service
-======
-......
+**Please refer to my shot bio.**

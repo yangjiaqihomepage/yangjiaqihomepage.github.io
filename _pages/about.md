@@ -20,21 +20,22 @@ I'm looking for self-motivated students working with me on 3D computer vision. F
 Research Interests
 ======
 <div style="line-height: 1.4; margin-bottom: 0.75em;">
-I lead 3D vision group in Area-Space-Ground-Oceans (ASGO) National Engineering Laboratory in Northwestern Polytechnical University (NWPU). Our research interests include:<br>
-1. 3D reconstruction from point clouds;<br>
+I lead the 3D vision group in Area-Space-Ground-Oceans (ASGO) National Engineering Laboratory in Northwestern Polytechnical University (NWPU). Our research interests include:<br>
+1. 3D data enhancement;<br>
 2. 3D reconstruction from images;<br>
-3. Point cloud vision tasks.
+3. 3D reconstruction from point clouds;<br>
+4. Other 3D vision tasks related to Pattern Matching.<br>
 </div>
 
 Shot BIO
 ======
 
-......
+Yang Jiaqi (graduated from Huazhong University of Science and Technology, BS@2014, Phd@2019, Supervisor: Zhiguo Cao) is a tenured associate professor/distinguished researcher and doctoral supervisor at the School of Computer Science, Northwestern Polytechnical University (NPU), and deputy director of the NPU Innovation Base for Real-time Intelligent Perception and Computing Technology in Unmanned Navigation (111 Project Base). He serves as the deputy secretary-general of the China Society of Image and Graphics (CSIG) and a standing committee member of the 3D Vision Committee (CSIG-3DV). His main research areas are 3D data augmentation, reconstruction, perception, and their engineering applications in the aerospace field. In recent years, she has published over 70 papers in journals such as IEEE TPAMI and CVPR (including the CVPR 2023 Best Student Paper Award), and supervised a first-year graduate student who won the CVPR 2023 Best Student Paper Award. He serves on the editorial board of the Journal of Image and Graphics (China). She has led 5 national-level projects and participated in multiple national-level and equipment model projects. He has received honors such as the First Prize of Shaanxi Provincial Science and Technology Invention Award, the First Prize of Shaanxi Provincial Teaching Achievement Award, and the Special Prize of NPU Graduate Teaching Achievement Award. She has led the development of multiple optical and multi-source 3D reconstruction systems, the results of which have been applied to fine 3D perception of the space environment.
 
-Recent News
+<!-- Recent News
 ======
 
-......
+...... -->
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
