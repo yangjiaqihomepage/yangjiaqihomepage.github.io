@@ -27,7 +27,7 @@ I lead the 3D vision group in Area-Space-Ground-Oceans (ASGO) National Engineeri
 4. Other 3D vision tasks related to Pattern Matching.<br>
 </div>
 
-Shot BIO
+Short BIO
 ======
 
 Yang Jiaqi (graduated from Huazhong University of Science and Technology, BS@2014, Phd@2019, Supervisor: Zhiguo Cao) is a tenured associate professor/distinguished researcher and doctoral supervisor at the School of Computer Science, Northwestern Polytechnical University (NPU), and deputy director of the NPU Innovation Base for Real-time Intelligent Perception and Computing Technology in Unmanned Navigation (111 Project Base). He serves as the deputy secretary-general of the China Society of Image and Graphics (CSIG) and a standing committee member of the 3D Vision Committee (CSIG-3DV). His main research areas are 3D data augmentation, reconstruction, perception, and their engineering applications in the aerospace field. In recent years, she has published over 70 papers in journals such as IEEE TPAMI and CVPR (including the CVPR 2023 Best Student Paper Award), and supervised a first-year graduate student who won the CVPR 2023 Best Student Paper Award. He serves on the editorial board of the Journal of Image and Graphics (China). She has led 5 national-level projects and participated in multiple national-level and equipment model projects. He has received honors such as the First Prize of Shaanxi Provincial Science and Technology Invention Award, the First Prize of Shaanxi Provincial Teaching Achievement Award, and the Special Prize of NPU Graduate Teaching Achievement Award. She has led the development of multiple optical and multi-source 3D reconstruction systems, the results of which have been applied to fine 3D perception of the space environment.
