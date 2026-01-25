@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-**Please refer to my shot bio.**
+**Please refer to my short bio.**
