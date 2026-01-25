@@ -19,7 +19,7 @@ Representative Works
 
 5. **Jiaqi Yang**, Xiyu Zhang, Peng Wang, Yulan Guo, Kun Sun, Qiao Wu, Shikun Zhang, Yanning Zhang. Mac: Maximal cliques for 3d registration. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2024. ([PDF](https://ieeexplore.ieee.org/iel8/34/4359286/10636064.pdf)) <span style="color:red">(CCF A, 1st ranking AI journal)</span>
 
-6. **Jiaqi Yang**, Ke Xian, Peng Wang, Yanning Zhang. A performance evaluation of correspondence grouping methods for 3D rigid data matching. **IEEE transactions on pattern analysis and machine intelligence**, 2019. ([PDF](https://ieeexplore.ieee.org/abstract/document/8935374/)) <span style="color:red">(CCF A, 1st ranking AI journal)</span>
+6. **Jiaqi Yang**, Ke Xian, Peng Wang, Yanning Zhang. A performance evaluation of correspondence grouping methods for 3D rigid data matching. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2019. ([PDF](https://ieeexplore.ieee.org/abstract/document/8935374/)) <span style="color:red">(CCF A, 1st ranking AI journal)</span>
 
 7. Chen Zhao, Zhiguo Cao, Chi Li, Xin Li, **Jiaqi Yang**\\({}^{*}\\). NM-Net: Mining reliable neighbors for robust feature correspondences. Proceedings of **the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)**, 2019. ([PDF](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_NM-Net_Mining_Reliable_Neighbors_for_Robust_Feature_Correspondences_CVPR_2019_paper.html)) <span style="color:red">(CCF A, Oral, <5% acceptance rate)</span>
 
@@ -151,7 +151,7 @@ Chen Zhao, Zhiguo Cao, **Jiaqi Yang**, Ke Xian, Xin Li. Image feature correspond
 
 **Jiaqi Yang**, Siwen Quan, Peng Wang, Yanning Zhang. Evaluating local geometric feature representations for 3D rigid data matching. **IEEE Transactions on Image Processing**, 2019. ([PDF](https://ieeexplore.ieee.org/abstract/document/8935529/))
 
-**Jiaqi Yang**, Ke Xian, Peng Wang, Yanning Zhang. A performance evaluation of correspondence grouping methods for 3D rigid data matching. **IEEE transactions on pattern analysis and machine intelligence**, 2019. ([PDF](https://ieeexplore.ieee.org/abstract/document/8935374/))
+**Jiaqi Yang**, Ke Xian, Peng Wang, Yanning Zhang. A performance evaluation of correspondence grouping methods for 3D rigid data matching. **IEEE Transactions on Pattern Analysis and Machine Intelligence**, 2019. ([PDF](https://ieeexplore.ieee.org/abstract/document/8935374/))
 
 Chen Zhao, **Jiaqi Yang**, Xin Xiong, Angfan Zhu, Zhiguo Cao, Xin Li. Rotation invariant point cloud classification: Where local geometry meets global topology. **arXiv:1911.00195**, 2019. ([PDF](https://arxiv.org/abs/1911.00195))
 
