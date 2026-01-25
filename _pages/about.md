@@ -13,10 +13,6 @@ School of Computer Science and Technology, Northwestern Polytechnical University
 1 Dongxiang Road, Chang'an District, Xi'an Shaanxi,710129, P.R.China.
 </div>
 
-<div style="color: rgb(194, 2, 2);" markdown="1">
-I'm looking for self-motivated students working with me on 3D computer vision. For prospective students, please send me an email with your CV and transcript.
-</div>
-
 Research Interests
 ======
 <div style="line-height: 1.4; margin-bottom: 0.75em;">
@@ -29,6 +25,12 @@ I lead the 3D vision group in Area-Space-Ground-Oceans (ASGO) National Engineeri
 
 Short BIO
 ======
+
+**[中文]**
+
+杨佳琪，西北工业大学计算机学院长聘副教授/特聘研究员，博导，西工大无人航行实时智能感知与计算技术创新引智基地（111引智基地）副主任。任中国图象图形学学会（CSIG）副秘书长、三维视觉专委会（CSIG-3DV）常委，主要研究方向为三维数据增强、重建、感知及其在三航领域的工程应用。近年发表IEEE TPAMI、CVPR等论文70余篇（含CVPR 2023最佳学生论文），指导研一学生获CVPR 2023最佳学生论文，担任中国图象图形学报青年编委。主持国家级项目5项，参研多项国家级和装备型号项目，获陕西省科学技术发明一等奖、陕西省教学成果一等奖、西工大研究生教学成果特等奖等荣誉，主持研制了多套光学和多源三维重构系统，成果应用于太空环境三维精细感知。
+
+**[English]**
 
 Yang Jiaqi (graduated from Huazhong University of Science and Technology, BS@2014, Phd@2019, Supervisor: Zhiguo Cao) is a tenured associate professor/distinguished researcher and doctoral supervisor at the School of Computer Science, Northwestern Polytechnical University (NPU), and deputy director of the NPU Innovation Base for Real-time Intelligent Perception and Computing Technology in Unmanned Navigation (111 Project Base). He serves as the deputy secretary-general of the China Society of Image and Graphics (CSIG) and a standing committee member of the 3D Vision Committee (CSIG-3DV). His main research areas are 3D data augmentation, reconstruction, perception, and their engineering applications in the aerospace field. In recent years, she has published over 70 papers in journals such as IEEE TPAMI and CVPR (including the CVPR 2023 Best Student Paper Award), and supervised a first-year graduate student who won the CVPR 2023 Best Student Paper Award. He serves on the editorial board of the Journal of Image and Graphics (China). She has led 5 national-level projects and participated in multiple national-level and equipment model projects. He has received honors such as the First Prize of Shaanxi Provincial Science and Technology Invention Award, the First Prize of Shaanxi Provincial Teaching Achievement Award, and the Special Prize of NPU Graduate Teaching Achievement Award. She has led the development of multiple optical and multi-source 3D reconstruction systems, the results of which have been applied to fine 3D perception of the space environment.
 
